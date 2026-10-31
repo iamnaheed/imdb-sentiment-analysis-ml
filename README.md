@@ -361,7 +361,8 @@ Through this project I gained practical experience in:
 ## 16. Author
 
 **Naheed Nawaz**
-Bachelor of BS Software Engineering, University of Sargodha
+- BS Software Engineering
+- University of Sargodha
 
 - Email: naheednawaz444@gmail.com
 - LinkedIn: www.linkedin.com/in/naheednawazkhokhar
