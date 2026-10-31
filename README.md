@@ -360,11 +360,11 @@ Through this project I gained practical experience in:
 
 ## 16. Author
 
-**[Your Full Name]**
-Bachelor of [Your Degree], [Your University]
+**Naheed Nawaz**
+Bachelor of BS Software Engineering, University of Sargodha
 
-- Email: [your.email@example.com]
-- LinkedIn: [linkedin.com/in/your-profile]
-- GitHub: [github.com/your-username]
+- Email: naheednawaz444@gmail.com
+- LinkedIn: www.linkedin.com/in/naheednawazkhokhar
+- GitHub: Github.com/iamnaheed
 
-*This project was developed for educational purposes and as part of my portfolio for Master's programme applications in Data Science, Artificial Intelligence, and Machine Learning.*
+
